@@ -1,0 +1,15 @@
+/Users/kentouwarrior/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes
+/Users/kentouwarrior/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.deps.json
+/Users/kentouwarrior/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.runtimeconfig.json
+/Users/kentouwarrior/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.dll
+/Users/kentouwarrior/repos/Classes-Exercise/Classes/bin/Debug/net6.0/Classes.pdb
+/Users/kentouwarrior/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.AssemblyReference.cache
+/Users/kentouwarrior/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kentouwarrior/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfoInputs.cache
+/Users/kentouwarrior/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.AssemblyInfo.cs
+/Users/kentouwarrior/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.csproj.CoreCompileInputs.cache
+/Users/kentouwarrior/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.dll
+/Users/kentouwarrior/repos/Classes-Exercise/Classes/obj/Debug/net6.0/refint/Classes.dll
+/Users/kentouwarrior/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.pdb
+/Users/kentouwarrior/repos/Classes-Exercise/Classes/obj/Debug/net6.0/Classes.genruntimeconfig.cache
+/Users/kentouwarrior/repos/Classes-Exercise/Classes/obj/Debug/net6.0/ref/Classes.dll
